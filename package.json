@@ -6,9 +6,6 @@
   "directories": {
     "test": "test"
   },
-  "files": [
-    "grid.js"
-  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
