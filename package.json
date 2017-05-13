@@ -1,0 +1,27 @@
+{
+  "name": "jquery-seat-charts",
+  "version": "1.0.0",
+  "description": "JQuery plugin for seat charts",
+  "main": "jquery.seat-charts.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billyeh/jQuery-Seat-Charts.git"
+  },
+  "keywords": [
+    "jquery",
+    "seat",
+    "chart"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billyeh/jQuery-Seat-Charts/issues"
+  },
+  "homepage": "https://github.com/billyeh/jQuery-Seat-Charts#readme"
+}
