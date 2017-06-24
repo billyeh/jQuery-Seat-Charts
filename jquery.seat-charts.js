@@ -349,7 +349,7 @@
     //do this for each map row
     $.each(settings.map.grid, function(row, list) {
 
-      var $row = $('<div></div>').addClass('seatCharts-row');
+      var $row = $('<div></div>').addClass('seatCharts-row clearfix');
 
       if (settings.naming.left) {
         $row.append(
